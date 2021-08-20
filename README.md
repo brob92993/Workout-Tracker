@@ -31,7 +31,17 @@ The user can track these workouts by the name, type, weight, set, reps, and dura
 
 Screenshots of the Application
 
-  ![Screenshot]()
+  ![Screenshot of Homepage](public/img/fitnesshomepage.PNG)
+
+  ![Screenshot of add excercise page](public/img/fitnessaddexcercise.PNG)
+
+  ![Screenshot of fitness dashboard](public/img/fitnessdashboard.PNG)
+
+
+Screenshot of the working routes in the CLI
+
+
+  ![Screenshot of working routes in CLI](public/img/workingroutes.PNG)
 
 To start the app in the CLI : "npm start"
   

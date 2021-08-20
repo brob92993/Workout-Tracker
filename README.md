@@ -24,7 +24,7 @@ The user can track these workouts by the name, type, weight, set, reps, and dura
 
   To seed the database, run the command "npm run seed"
 
-  To run the server in the CLI: "node server.js".
+  To run the server in the CLI: "npm start".
   
   
   ## Usage
@@ -43,7 +43,7 @@ Screenshot of the working routes in the CLI
 
   ![Screenshot of working routes in CLI](public/img/workingroutes.PNG)
 
-To start the app in the CLI : "npm start"
+
   
 
   ## License
